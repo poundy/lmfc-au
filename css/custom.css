@@ -1,0 +1,4 @@
+/* Fix footer overlap on home page only */
+.home-page .page-section {
+    padding-bottom: 6rem; /* adjust if needed */
+}
