@@ -1,4 +1,7 @@
-/* Fix footer overlap on home page only */
-.home-page .page-section {
-    padding-bottom: 60rem; /* adjust if needed */
+/* Make home page layout behave like About page */
+.home-page .intro .intro-text {
+    position: relative;
+    top: auto;
+    transform: none;
+    margin-top: 2rem; /* optional, tweak as needed */
 }
