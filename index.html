@@ -51,14 +51,12 @@
                         <p class="mb-3">We have a diverse group of members who fly many different types of aircraft, small or large, fixed or rotary wing, electric or fuelled, hand built or kit or ready-to-fly... we cater for everyone.</p>  
                         <p class="mb-3">Our regularly scheduled flying days are Sunday, Tuesday, and Wednesday, 9am to midday, weather permitting.</p>
                         <p class="mb-3">When you arrive at our club flying field, you'll find a fantastic setup for all forms of RC flying. We have great parking alongside our main undercover area, which fronts to our dedicated fuelled aircraft runup area and to the electric aircraft arming areas, and leads out to our fantastic grass runways that are better kept than many lawns.</p>
-<p class="mb-3">post count: {{ site.posts | size }}</p>
 						<h3 class="section-heading mb-3">Latest News</h3>
 							<ul class="list-unstyled">
 							  {% for post in site.posts limit:5 %}
 							    <li>{{ post.date | date: "%Y-%m-%d" }} — <a href="{{ post.url }}">{{ post.title }}</a></li>
 							  {% endfor %}
 							</ul>
-						Page last rendered: {{ site.time }}
 						<div class="intro-button mx-auto">
                             <a class="btn btn-primary btn-xl" href="location.html">Visit Us Today!</a>
                         </div>
