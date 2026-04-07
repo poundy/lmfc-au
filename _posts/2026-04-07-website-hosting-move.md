@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Website hosting move"
 date: 2026-04-07
 ---
