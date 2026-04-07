@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section class="page-section">
+  <div class="container">
+    <div class="bg-faded p-5 rounded">
+      <h2 class="section-heading mb-4">
+        <span class="section-heading-upper">{{ page.title }}</span>
+        <span class="section-heading-lower">{{ page.date | date: "%Y-%m-%d" }}</span>
+      </h2>
+
+      <div class="post-content">
+        {{ content }}
+      </div>
+
+      <div class="mt-4">
+        <a href="/" class="btn btn-primary btn-sm">← Back to Home</a>
+      </div>
+    </div>
+  </div>
+</section>
