@@ -9,3 +9,5 @@ Unfortunately, the waterlogged state of the field, combined with a wet forecast 
 I would like to thank Bruce, Jamie and Rob for the maintenance work and mowing that was completed on Thursday.  We are not closing the field but do ask that you consider both your models and our field before deciding to fly this week.
 
 Finally, thanks to Ben, Howard and all who put their hand up to help with the IMAC event.  We have made the offer to reschedule the event later in the year if the IMAC calendar allows.
+
+Peter - President.
